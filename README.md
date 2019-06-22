@@ -11,8 +11,6 @@ If the datapack successfully installs you should receive a message similar to th
 [INFO] Datapack v0.0 has been installed
 ```
 
-All datapacks will, in addition, attempt to turn the gamerule Send Command Feedback to false and Reduced Debug Info to true. This is in an attempt to provide a cleaner and more natural UI for the players; however, they will only be set to this default when the first datapack is installed. The datapacks will not try and modify these values as long as there is an existing pack installed.
-
 ### Options
 ---
 If you wish to change any options in the datapack or find any commands the datapack has added, first make sure the world has cheats enabled. 
